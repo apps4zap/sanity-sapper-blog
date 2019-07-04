@@ -3,7 +3,7 @@ export default {
   name: 'fulfillment',
   type: 'document',
   title: 'Fulfillment',
-  of: [
+  fields: [
     {
       name: 'title',
       type: 'string',
